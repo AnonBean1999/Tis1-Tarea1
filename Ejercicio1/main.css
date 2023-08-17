@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+#bnav{
+
+ background-color: black;  
+ padding: 1%;
+ margin: 0;
+
+}
+#bnav .item{
+    color: white;
+    padding: 0.5%;
+}
+
+#titulo{
+    font-family: Preahvihear;
+}
+
+
+#divCuerpo{
+    margin: 1% 10%;
+}
+
+#parrafo1{
+    margin: 0%;
+    width: 100%;
+    text-align: justify;
+}
+
+#Foto1{
+    width: 100%;
+}
+
+.contenedorTexto{
+
+    background-color: rgb(57, 241, 57);
+    padding-top: 1px;
+    padding-left: 20px;
+    border-style: dashed;
+
+}
+
+#tituloContenedor{
+    margin: 0;
+    padding: 0.5%;
+}
